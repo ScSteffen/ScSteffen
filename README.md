@@ -11,7 +11,3 @@ this github features my work on various projects including
 - 👯 I’m looking to collaborate on ... cool scientific computing projects. Bonus points if it contains parallel computing or machine learning.
 - 💬 Ask me about partial differential equations, kinetic solvers, neural networks and their applications. 
 
-- Some funny stats
-![stats](https://github-readme-stats.vercel.app/api?username=ScSteffen)
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ScSteffen&layout=compact)
-
