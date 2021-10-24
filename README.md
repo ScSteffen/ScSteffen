@@ -8,6 +8,6 @@ this github features my work on various projects including
 
 
 - 🌱 I’m currently learning everything possible about modern neural network architectures, fast and realiable code to compute hard problems and other stuff during my PhD at [KIT Karlsruhe](https://www.scc.kit.edu/en/aboutus/rg-csmm.php).
-- 👯 I’m looking to collaborate on anythin relatead to scientific computing. Bonus points if it contains parallel computing or machine learning.
+- 👯 I’m looking to collaborate on anything relatead to scientific computing. Bonus points if it contains parallel computing or machine learning.
 - 💬 Ask me about partial differential equations, kinetic solvers, neural networks and their applications. 
 
