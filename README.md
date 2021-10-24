@@ -13,6 +13,6 @@ this github features my work on various projects including
 
 - 📈 Some stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=ScSteffen)
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ScSteffen)
+![stats](https://github-readme-stats.vercel.app/api?username=ScSteffen&count_private=true)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ScSteffen&count_private=true)
 
