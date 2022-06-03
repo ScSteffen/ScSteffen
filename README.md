@@ -2,7 +2,7 @@
 
 this github features my work on various projects including
 
-- 🔭 ![neuralEntropyClosures](https://github.com/ScSteffen/neuralEntropyClosures), a project to fuse deep neural networks with high performance numerical solvers for particle transport. 
+- 🔭 ![neuralEntropyClosures](https://github.com/ScSteffen/neuralEntropyClosures), a project to fuse deep neural networks with high performance numerical solvers for particle transport. The work is summarized in the ICML2022 contribution, which can be found on [arxiv](https://arxiv.org/abs/2201.10364)
 
 - 🔭 ![DLRANet](https://github.com/CSMMLab/DLRANet) a novel approach for adaptive low-rank neural network training and model compression. The preprint can be found on [arxiv](https://arxiv.org/abs/2205.13571).
 
