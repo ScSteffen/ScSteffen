@@ -13,8 +13,6 @@ this github features my work on various projects including
 - 🔭 ![Flowmachine](https://github.com/CSMMLab/Flowmachine), a deep-learning based prediction of continuum breakdown of rarefied gas flows with a hybrid flow-solver. The preprint can be found on [arxiv](https://arxiv.org/abs/2203.02933).
 
 
-- 🌱 I’m currently learning everything possible about modern neural network architectures, fast and realiable code to compute hard problems and other stuff during my PhD at [KIT Karlsruhe](https://www.scc.kit.edu/en/aboutus/rg-csmm.php).
-- 👯 I’m looking to collaborate on anything relatead to scientific computing. Bonus points if it contains parallel computing or machine learning.
-- 💬 Ask me about partial differential equations, kinetic solvers, neural networks and their applications. 
+- 🌱 PhD Researcher @ [KIT Karlsruhe](https://www.scc.kit.edu/en/aboutus/rg-csmm.php).
 
 
