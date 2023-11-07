@@ -13,6 +13,6 @@ this github features my work on various projects including
 - 🔭 ![Flowmachine](https://github.com/CSMMLab/Flowmachine), a deep-learning based prediction of continuum breakdown of rarefied gas flows with a hybrid flow-solver. The preprint can be found on [arxiv](https://arxiv.org/abs/2203.02933).
 
 
-- 🌱 PhD Researcher @ [KIT Karlsruhe](https://www.scc.kit.edu/en/aboutus/rg-csmm.php).
+- 🌱 Householder Fellow @ [Oak Ridge National Laboratory]([https://www.scc.kit.edu/en/aboutus/rg-csmm.php](https://www.ornl.gov/)https://www.ornl.gov/).
 
 
