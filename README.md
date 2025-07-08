@@ -1,6 +1,4 @@
-### Hi there 👋
-
-this github features my work on various projects including
+Mostly research code. 
 
 - 🔭 ![neuralEntropyClosures](https://github.com/ScSteffen/neuralEntropyClosures), a project to fuse deep neural networks with high performance numerical solvers for particle transport. The work is summarized in the ICML2022 contribution, which can be found on [arxiv](https://arxiv.org/abs/2201.10364)
 
