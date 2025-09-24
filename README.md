@@ -2,7 +2,7 @@ Mostly research code. Some examples below
 
 - ![Scalable adaptive low-rank compression and finetuning for foundation models](https://github.com/ScSteffen/Publication-GeoLoRA-Geometric-integration-for-parameter-efficient-fine-tuning), published @ ICRL 2024 [arxiv](https://arxiv.org/pdf/2410.18720?)
   
--  ![Robustly compressed Transformers]([https://github.com/ScSteffen/neuralEntropyClosures](https://github.com/ScSteffen/Publication_ICML_MOSS_Workshop)), published @ MOSS workshop ICML 2025 [arxiv](https://arxiv.org/pdf/2505.08022?)
+-  ![Robustly compressed Transformers](https://github.com/ScSteffen/Publication_ICML_MOSS_Workshop), published @ MOSS workshop ICML 2025 [arxiv](https://arxiv.org/pdf/2505.08022?)
 
 -  ![KiT-RT](https://github.com/CSMMLab/KiT-RT), an high performance radiation transport simulator and multi purpose numerical toolkit. You can also [read the docs]( https://kit-rt.readthedocs.io/en/develop/index.html). The preprint can be found on [arxiv](https://arxiv.org/abs/2205.08417). Use the [Wrapper for KiT-RT](https://github.com/ScSteffen/CharmKiT) for multi-fidelity optimization.
 
